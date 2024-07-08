@@ -1,6 +1,5 @@
 package br.com.alura.screensound;
-
-import br.com.alura.screensound.Principal.Principal;
+import br.com.alura.screensound.principal.Principal;
 import br.com.alura.screensound.repository.ArtistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
